@@ -2,7 +2,7 @@
 Tic-Tac-Toe Web Application
 
 Tic-Tac-Toe Web Application with Django
-This is a Tic-Tac-Toe web application built with Django, HTML, CSS, and JavaScript. The application allows two players to play the classic game of Tic-Tac-Toe on a 3x3 grid, as well as a single player mode where the user plays against an AI.
+This is a Tic-Tac-Toe web application built with HTML, CSS, JavaScript and jQuery. The application allows two players to play the classic game of Tic-Tac-Toe on a 3x3 grid, as well as a single player mode where the user plays against an AI.
 
 <h2>Getting Started</h2></br>
 <b>Prerequisites</b></br>
@@ -14,13 +14,7 @@ pip install django
 
 <b>Installation</b></br>
 1. Clone the repository to your local machine.</br>
-2. Navigate to the tictactoe directory.</br>
-3. Run the following command to start the development server:</br>
-
-```python
-python manage.py runserver
-```
-4. Open your web browser and go to http://localhost:8000 to access the application.</br>
+2. Run tha "Index.html" file.</br>
 
 <b></b>
 <b>Usage</b></br>
